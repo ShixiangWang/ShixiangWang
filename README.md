@@ -17,4 +17,4 @@ If you use Chinese, you can also follow me on
 [微信公众号](https://shixiangwang.github.io/home/logo/qrcode.jpg).
 
 [**My Google Research
-Profile**](https://github.com/ShixiangWang/ShixiangWang/blob/master/README_files/figure-gfm/unnamed-chunk-2-1.png)
+Profile**](https://shixiangwang.github.io/tinyscholar/articles/tinyscholar.html#show-table)
