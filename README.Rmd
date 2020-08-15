@@ -19,16 +19,4 @@ knitr::opts_chunk$set(
  
  If you use Chinese, you can also follow me on [简书](https://www.jianshu.com/u/b6608e27dc74) and [微信公众号](https://shixiangwang.github.io/home/logo/qrcode.jpg).
 
-### My Google Research Profile
-
-```{r echo = FALSE, message=FALSE, warning=FALSE, fig.align = "center"}
-library(tinyscholar)
-
-r <- tinyscholar("FvNp0NkAAAAJ")
-pl <- scholar_plot(r)
-pl$citations
-tb <- scholar_table(r, as_raw_html = TRUE)
-tb$publications
-```
-
-> The profile data is obtained and visualized by R package [tinyscholar](https://github.com/ShixiangWang/tinyscholar)
+[**My Google Research Profile**](https://github.com/ShixiangWang/ShixiangWang/blob/master/README_files/figure-gfm/unnamed-chunk-2-1.png)
