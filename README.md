@@ -13,7 +13,7 @@ genomics and immunotherapy by biostatistic skills.
 [email](mailto:https://github.com/ShixiangWang/MessageBoard/issues).
 
 If you use Chinese, you can also follow me on
-[简书](https://www.jianshu.com/u/b6608e27dc74) and
+[知乎](https://www.zhihu.com/people/shixiangwang) and
 [微信公众号](https://shixiangwang.github.io/home/logo/qrcode.jpg).
 
 [**My Google Research
