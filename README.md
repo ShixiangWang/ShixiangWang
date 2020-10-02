@@ -16,5 +16,4 @@ If you use Chinese, you can also follow me on
 [知乎](https://www.zhihu.com/people/shixiangwang) and
 [微信公众号](https://shixiangwang.github.io/home/logo/qrcode.jpg).
 
-[**My Google Research
-Profile**](https://shixiangwang.github.io/tinyscholar/articles/tinyscholar.html#show-table)
+More to see my [CV](https://shixiangwang.github.io/cv-shixiang/).
