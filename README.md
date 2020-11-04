@@ -2,9 +2,9 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ![Shixiang’s github
-stats](https://github-readme-stats.vercel.app/api?username=ShixiangWang&show_icons=true&theme=gradient)
+stats](https://github-readme-stats.vercel.app/api?username=ShixiangWang&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShixiangWang&hide=html&layout=compact)](https://github.com/ShixiangWang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShixiangWang&hide=html,jupyter%20notebook&layout=compact&langs_count=10)](https://github.com/ShixiangWang/github-readme-stats)
 
 👋 Welcome\! I’m a fan of R, Python and Golang. 🔭 I’m a PhD student
 @ShanghaiTech University (China), currently working on studying cancer
