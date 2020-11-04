@@ -1,8 +1,10 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-![Anurag’s github
-stats](https://github-readme-stats.vercel.app/api?username=ShixiangWang&show_icons=true)
+![Shixiang’s github
+stats](https://github-readme-stats.vercel.app/api?username=ShixiangWang&show_icons=true&theme=gradient)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShixiangWang&hide=html&layout=compact)](https://github.com/ShixiangWang/github-readme-stats)
 
 👋 Welcome\! I’m a fan of R, Python and Golang. 🔭 I’m a PhD student
 @ShanghaiTech University (China), currently working on studying cancer
