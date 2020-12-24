@@ -10,7 +10,7 @@ genomics and immunotherapy by biostatistic skills.
 
 💬 Ask me anything
 [here](https://github.com/ShixiangWang/MessageBoard/issues) or by
-[email](mailto:https://github.com/ShixiangWang/MessageBoard/issues). 一起学习讨论，加入我的知识星球：<https://t.zsxq.com/E6Q3nIQ>。
+[email](mailto:https://github.com/ShixiangWang/MessageBoard/issues). 一起学习讨论，加入我的知识星球：<https://t.zsxq.com/rBqbIei>。
 
 If you use Chinese, you can also follow me on
 [知乎](https://www.zhihu.com/people/shixiangwang) and
