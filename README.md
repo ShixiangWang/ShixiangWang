@@ -14,4 +14,6 @@ genomics and immunotherapy by biostatistic skills.
 
 [![wechat](https://img.shields.io/badge/王诗翔-微信公众号-important)](https://shixiangwang.github.io/home/logo/qrcode.jpg) [![planet](https://img.shields.io/badge/王诗翔-知识星球-blueviolet)](https://t.zsxq.com/rBqbIei)  [![zhihu](https://img.shields.io/badge/王诗翔-知乎-blue)](https://www.zhihu.com/people/shixiangwang) [![twitter](https://img.shields.io/badge/ShixiangWang-twitter-ff69b4)](https://twitter.com/WangShxiang) 
 
+点击查看我的[直播学习计划](https://shixiangwang.github.io/self-study/%E7%9B%B4%E6%92%AD%E8%AE%A1%E5%88%92.html)。
+
 More to see my [CV](https://shixiangwang.github.io/cv-shixiang/).
