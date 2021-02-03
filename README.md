@@ -9,7 +9,7 @@ stats](https://github-readme-stats.vercel.app/api?username=ShixiangWang&show_ico
 genomics and immunotherapy by biostatistic skills.
 
 💬 Ask me anything
-[here](https://github.com/ShixiangWang/MessageBoard/issues) or by
+[here](https://github.com/ShixiangWang/self-study/discussions) or by
 [email](mailto:https://github.com/ShixiangWang/MessageBoard/issues). 
 
 [![bilibili](https://img.shields.io/badge/王诗翔-B站-yellow)](https://space.bilibili.com/11553374) [![wechat](https://img.shields.io/badge/王诗翔-微信公众号-important)](https://shixiangwang.github.io/home/logo/qrcode.jpg) [![planet](https://img.shields.io/badge/王诗翔-知识星球-blueviolet)](https://t.zsxq.com/rBqbIei)  [![zhihu](https://img.shields.io/badge/王诗翔-知乎-blue)](https://www.zhihu.com/people/shixiangwang) [![twitter](https://img.shields.io/badge/ShixiangWang-twitter-ff69b4)](https://twitter.com/WangShxiang) 
