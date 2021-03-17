@@ -8,6 +8,8 @@ stats](https://github-readme-stats.vercel.app/api?username=ShixiangWang&show_ico
 @ShanghaiTech University (China), currently working on studying cancer
 genomics and immunotherapy by biostatistic skills.
 
+My useful R packages can be found and installed at [R-universe](https://shixiangwang.r-universe.dev/).
+
 💬 Ask me anything
 [here](https://github.com/ShixiangWang/self-study/discussions) or by
 [email](mailto:https://github.com/ShixiangWang/MessageBoard/issues). 
