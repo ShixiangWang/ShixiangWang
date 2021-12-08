@@ -1,9 +1,6 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-![Shixiang’s github
-stats](https://github-readme-stats.vercel.app/api?username=ShixiangWang&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShixiangWang&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)](https://github.com/ShixiangWang/github-readme-stats)
-
 💬 Connect to me by
 [discussions](https://github.com/ShixiangWang/self-study/discussions) or [email](mailto:w_shixiang@163.com). 
 
