@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 405 Contributions in the Year 2022
+> 🏆 416 Contributions in the Year 2022
  > 
-> 📦 3.7 MB Used in GitHub's Storage 
+> 📦 3.8 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,22 +29,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    351 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
-🌆 Daytime    893 commits    █████████░░░░░░░░░░░░░░░░   38.41% 
-🌃 Evening    920 commits    ██████████░░░░░░░░░░░░░░░   39.57% 
+🌞 Morning    351 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
+🌆 Daytime    893 commits    █████████░░░░░░░░░░░░░░░░   38.39% 
+🌃 Evening    921 commits    ██████████░░░░░░░░░░░░░░░   39.6% 
 🌙 Night      161 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.92%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       392 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
+Monday       392 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.85% 
 Tuesday      383 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
-Wednesday    395 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.99% 
-Thursday     364 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
+Wednesday    395 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
+Thursday     365 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
 Friday       370 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
 Saturday     169 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
-Sunday       252 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.84%
+Sunday       252 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.83%
 
 ```
 
@@ -85,7 +85,7 @@ Shell                    4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShixiangWang/ShixiangWang/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/03/2022 19:09:08 UTC
+ Last Updated on 31/03/2022 18:58:53 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
