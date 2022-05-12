@@ -10,13 +10,13 @@
 [![bilibili](https://img.shields.io/badge/王诗翔-B站-yellow)](https://space.bilibili.com/11553374) [![wechat](https://img.shields.io/badge/王诗翔-微信公众号-important)](https://shixiangwang.github.io/home/logo/qrcode.jpg) [![planet](https://img.shields.io/badge/王诗翔-知识星球-blueviolet)](https://t.zsxq.com/rBqbIei)  [![zhihu](https://img.shields.io/badge/王诗翔-知乎-blue)](https://www.zhihu.com/people/shixiangwang) [![twitter](https://img.shields.io/badge/WangShxiang-twitter-ff69b4)](https://twitter.com/WangShxiang) [![scholar](https://img.shields.io/badge/ShixiangWang-Scholar-00ffff)](https://scholar.google.com/citations?user=FvNp0NkAAAAJ) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 713 Contributions in the Year 2022
+> 🏆 719 Contributions in the Year 2022
  > 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
@@ -29,22 +29,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    357 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.82% 
-🌆 Daytime    919 commits    █████████░░░░░░░░░░░░░░░░   38.15% 
-🌃 Evening    966 commits    ██████████░░░░░░░░░░░░░░░   40.1% 
-🌙 Night      167 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.93%
+🌞 Morning    356 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
+🌆 Daytime    924 commits    █████████░░░░░░░░░░░░░░░░   38.29% 
+🌃 Evening    966 commits    ██████████░░░░░░░░░░░░░░░   40.03% 
+🌙 Night      167 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.92%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       380 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
-Tuesday      397 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
-Wednesday    413 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
-Thursday     375 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
-Friday       380 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
-Saturday     189 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.85% 
-Sunday       275 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.42%
+Monday       379 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
+Tuesday      397 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.45% 
+Wednesday    413 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.12% 
+Thursday     380 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
+Friday       380 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
+Saturday     189 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.83% 
+Sunday       275 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.4%
 
 ```
 
@@ -85,7 +85,7 @@ Shell                    4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShixiangWang/ShixiangWang/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 19:00:43 UTC
+ Last Updated on 12/05/2022 04:54:02 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
