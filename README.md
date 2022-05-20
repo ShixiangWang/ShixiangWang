@@ -4,6 +4,8 @@
 <p><em>Postdoc at <a href="https://sysucc.org.cn/">SYSUCC</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+Useful R packages developed/maintained by me can be found/installed at [r-universe](https://shixiangwang.r-universe.dev/).
+
 💬 Connect to me by
 [discussions](https://github.com/ShixiangWang/self-study/discussions) or [email](mailto:w_shixiang@163.com) or [![Gitter](https://badges.gitter.im/ShixiangWang/community.svg)](https://gitter.im/ShixiangWang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). 
 
