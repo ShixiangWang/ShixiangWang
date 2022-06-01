@@ -12,13 +12,13 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 [![bilibili](https://img.shields.io/badge/王诗翔-B站-yellow)](https://space.bilibili.com/11553374) [![wechat](https://img.shields.io/badge/王诗翔-微信公众号-important)](https://shixiangwang.github.io/home/logo/qrcode.jpg) [![planet](https://img.shields.io/badge/王诗翔-知识星球-blueviolet)](https://t.zsxq.com/rBqbIei)  [![zhihu](https://img.shields.io/badge/王诗翔-知乎-blue)](https://www.zhihu.com/people/shixiangwang) [![twitter](https://img.shields.io/badge/WangShxiang-twitter-ff69b4)](https://twitter.com/WangShxiang) [![scholar](https://img.shields.io/badge/ShixiangWang-Scholar-00ffff)](https://scholar.google.com/citations?user=FvNp0NkAAAAJ) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 868 Contributions in the Year 2022
+> 🏆 869 Contributions in the Year 2022
  > 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
@@ -31,9 +31,9 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    344 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
-🌆 Daytime    904 commits    █████████░░░░░░░░░░░░░░░░   38.4% 
-🌃 Evening    941 commits    ██████████░░░░░░░░░░░░░░░   39.97% 
+🌞 Morning    343 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
+🌆 Daytime    906 commits    █████████░░░░░░░░░░░░░░░░   38.47% 
+🌃 Evening    941 commits    ██████████░░░░░░░░░░░░░░░   39.96% 
 🌙 Night      165 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   7.01%
 
 ```
@@ -41,10 +41,10 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 
 ```text
 Monday       356 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
-Tuesday      389 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.53% 
-Wednesday    390 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
-Thursday     357 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
-Friday       406 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.25% 
+Tuesday      389 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
+Wednesday    392 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.65% 
+Thursday     357 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.16% 
+Friday       405 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.2% 
 Saturday     190 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.07% 
 Sunday       266 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.3%
 
@@ -87,7 +87,7 @@ JavaScript               5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShixiangWang/ShixiangWang/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/05/2022 19:08:09 UTC
+ Last Updated on 01/06/2022 18:58:18 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
