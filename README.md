@@ -17,13 +17,9 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2041%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 983 Contributions in the Year 2022
+> 🏆 992 Contributions in the Year 2022
  > 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
@@ -36,44 +32,25 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    342 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
-🌆 Daytime    912 commits    █████████░░░░░░░░░░░░░░░░   38.58% 
-🌃 Evening    941 commits    ██████████░░░░░░░░░░░░░░░   39.81% 
-🌙 Night      169 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   7.15%
+🌞 Morning    349 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.73% 
+🌆 Daytime    912 commits    █████████░░░░░░░░░░░░░░░░   38.48% 
+🌃 Evening    940 commits    ██████████░░░░░░░░░░░░░░░   39.66% 
+🌙 Night      169 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   7.13%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       359 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-Tuesday      394 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Wednesday    399 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
-Thursday     357 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
-Friday       400 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.92% 
-Saturday     191 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.08% 
-Sunday       264 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.17%
+Monday       359 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
+Tuesday      394 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
+Wednesday    399 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
+Thursday     356 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.02% 
+Friday       407 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
+Saturday     191 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
+Sunday       264 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.14%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
 
 **I Mostly Code in R** 
 
@@ -87,12 +64,8 @@ JavaScript               5 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/ShixiangWang/ShixiangWang/master/charts/bar_graph.png) 
-
-
- Last Updated on 23/06/2022 19:09:25 UTC
+ Last Updated on 24/06/2022 02:01:19 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
