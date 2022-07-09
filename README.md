@@ -25,9 +25,9 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 78 Public Repositories 
+> 📜 77 Public Repositories 
  > 
-> 🔑 16 Private Repositories  
+> 🔑 17 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -65,7 +65,7 @@ JavaScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2022 12:42:34 UTC
+ Last Updated on 09/07/2022 12:44:26 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
