@@ -19,6 +19,8 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
+> 🏆 1,242 Contributions in the Year 2022
+ > 
 > 📦 4.0 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -63,7 +65,7 @@ JavaScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2022 18:47:13 UTC
+ Last Updated on 13/08/2022 18:43:18 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
