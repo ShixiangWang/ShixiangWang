@@ -19,7 +19,7 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 1,751 Contributions in the Year 2022
+> 🏆 1,766 Contributions in the Year 2022
  > 
 > 📦 4.1 MB Used in GitHub's Storage 
  > 
@@ -29,6 +29,29 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
  > 
 > 🔑 18 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    384 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.23% 
+🌆 Daytime    895 commits    █████████░░░░░░░░░░░░░░░░   37.83% 
+🌃 Evening    877 commits    █████████░░░░░░░░░░░░░░░░   37.07% 
+🌙 Night      210 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.88%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       356 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
+Tuesday      457 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.32% 
+Wednesday    365 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.43% 
+Thursday     375 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.85% 
+Friday       380 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
+Saturday     192 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+Sunday       241 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.19%
+
+```
+
+
 **I Mostly Code in R** 
 
 ```text
@@ -42,7 +65,7 @@ Shell                    4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2022 18:39:59 UTC
+ Last Updated on 13/12/2022 18:39:36 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
