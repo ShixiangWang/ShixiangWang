@@ -1,7 +1,7 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 🙏🏻, I'm Shixiang Wang! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<p><em>Postdoc at <a href="https://sysucc.org.cn/">SYSUCC</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Postdoc at <a href="https://sysucc.org.cn/">SYSUCC</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  ｜ <a href="https://shixiangwang.github.io/cv-shixiang/">CV</a>
 </em></p>
 
 Useful R packages developed/maintained by me can be found/installed at [r-universe](https://shixiangwang.r-universe.dev/).
