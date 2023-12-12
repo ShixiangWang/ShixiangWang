@@ -19,7 +19,7 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 
 > 📦 4.5 MB Used in GitHub's Storage 
  > 
-> 🏆 1,428 Contributions in the Year 2023
+> 🏆 1,497 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,17 +30,17 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 **I Mostly Code in R** 
 
 ```text
-R                        84 repos            █████████████░░░░░░░░░░░░   53.50 % 
-Shell                    11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Jupyter Notebook         5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+R                        84 repos            █████████████░░░░░░░░░░░░   53.16 % 
+Shell                    11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Jupyter Notebook         5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 
 
 
 
- Last Updated on 06/12/2023 18:48:43 UTC
+ Last Updated on 12/12/2023 18:47:56 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
