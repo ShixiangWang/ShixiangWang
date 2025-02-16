@@ -19,12 +19,35 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 
 > 📦 5.0 MB Used in GitHub's Storage 
  > 
+> 🏆 124 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 96 Public Repositories 
  > 
 > 🔑 30 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2263 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+🌆 Daytime                5782 commits        ███████████░░░░░░░░░░░░░░   42.75 % 
+🌃 Evening                4567 commits        ████████░░░░░░░░░░░░░░░░░   33.76 % 
+🌙 Night                  914 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2141 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Tuesday                  2497 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Wednesday                2261 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Thursday                 2144 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Friday                   2073 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Saturday                 1033 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Sunday                   1377 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+```
+
+
 **I Mostly Code in R** 
 
 ```text
@@ -38,7 +61,7 @@ Jupyter Notebook         5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 18:46:40 UTC
+ Last Updated on 16/02/2025 18:47:01 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
