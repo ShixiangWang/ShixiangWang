@@ -19,8 +19,6 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 
 > 📦 5.0 MB Used in GitHub's Storage 
  > 
-> 🏆 309 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 98 Public Repositories 
@@ -32,7 +30,7 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 ```text
 🌞 Morning                2272 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
 🌆 Daytime                5803 commits        ███████████░░░░░░░░░░░░░░   42.68 % 
-🌃 Evening                4591 commits        ████████░░░░░░░░░░░░░░░░░   33.76 % 
+🌃 Evening                4592 commits        ████████░░░░░░░░░░░░░░░░░   33.77 % 
 🌙 Night                  931 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -40,11 +38,11 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 ```text
 Monday                   2146 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 Tuesday                  2509 commits        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Wednesday                2281 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Wednesday                2281 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
 Thursday                 2168 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Friday                   2073 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Friday                   2073 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
 Saturday                 1038 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Sunday                   1382 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Sunday                   1383 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 ```
 
 
@@ -61,7 +59,7 @@ Jupyter Notebook         5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2025 18:52:09 UTC
+ Last Updated on 11/05/2025 18:50:46 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
