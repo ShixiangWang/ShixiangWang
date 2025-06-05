@@ -19,8 +19,6 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 
 > 📦 5.0 MB Used in GitHub's Storage 
  > 
-> 🏆 367 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 100 Public Repositories 
@@ -61,7 +59,7 @@ Jupyter Notebook         5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2025 18:56:22 UTC
+ Last Updated on 05/06/2025 19:03:01 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
