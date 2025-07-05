@@ -19,8 +19,6 @@ Useful R packages developed/maintained by me can be found/installed at [r-univer
 
 > 📦 5.0 MB Used in GitHub's Storage 
  > 
-> 🏆 491 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 100 Public Repositories 
@@ -61,7 +59,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2025 18:55:05 UTC
+ Last Updated on 05/07/2025 18:52:15 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
