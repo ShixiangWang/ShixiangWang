@@ -2,7 +2,7 @@
 <p><em>Dr. Shixiang Wang, Associate Professor at <a href="https://en.csu.edu.cn/">Central South University</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  ｜ <a href="https://faculty.csu.edu.cn/wangshixiang">CV</a>
 </em></p>
 
-Useful R packages developed/maintained by me can be found/installed at [r-universe](https://shixiangwang.r-universe.dev/) and [my lab](https://github.com/WangLabCSU).
+Useful (R) packages developed/maintained by me can be found/installed at [r-universe](https://shixiangwang.r-universe.dev/) and [my lab](https://github.com/WangLabCSU).
 
 💬 Connect to me by
 [discussions](https://github.com/ShixiangWang/self-study/discussions) or [email](mailto:shixiang1994wang@gmail.com). 
