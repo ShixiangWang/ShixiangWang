@@ -1,27 +1,34 @@
 
-<p><em>Dr. Shixiang Wang, Associate Professor at <a href="https://en.csu.edu.cn/">Central South University</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  ｜ <a href="https://faculty.csu.edu.cn/wangshixiang">CV</a>
-</em></p>
+# Hi there! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Useful (R) packages developed/maintained by me can be found/installed at [r-universe](https://shixiangwang.r-universe.dev/) and [my lab](https://github.com/WangLabCSU).
-
-💬 Connect to me by
-[discussions](https://github.com/ShixiangWang/self-study/discussions) or [email](mailto:shixiang1994wang@gmail.com). 
-
-[![bilibili](https://img.shields.io/badge/王诗翔-B站-yellow)](https://space.bilibili.com/11553374) [![wechat](https://img.shields.io/badge/王诗翔-微信公众号-important)](https://shixiangwang.github.io/home/logo/qrcode.jpg) [![zhihu](https://img.shields.io/badge/王诗翔-知乎-blue)](https://www.zhihu.com/people/shixiangwang) [![twitter](https://img.shields.io/badge/WangShxiang-twitter-ff69b4)](https://twitter.com/WangShxiang) [![scholar](https://img.shields.io/badge/ShixiangWang-Scholar-00ffff)](https://scholar.google.com/citations?user=FvNp0NkAAAAJ) 
-
-## Featured projects
-- UCSCXenaShiny — Interactive Shiny app for exploring UCSC Xena datasets  https://github.com/openbiox/UCSCXenaShiny
-- UCSCXenaTools — R toolkit to access and manipulate UCSC Xena data  https://github.com/ropensci/UCSCXenaTools
-- bregr — Selected research software from WangLab @ CSU  https://github.com/WangLabCSU/bregr
-- weekly — Openbiox Weekly: curated bioinformatics news and resources  https://github.com/openbiox/weekly
-- Tech-Workshop — OncoHarmony Network workshops and teaching materials  https://github.com/OncoHarmony-Network/Tech-Workshop
+**Dr. Shixiang Wang** | Associate Professor at [Central South University](https://en.csu.edu.cn/) | [CV](https://faculty.csu.edu.cn/wangshixiang)
 
 ## About
-- Associate Professor @ Central South University · Bioinformatics · Cancer Genomics · R Developer
-- I build open-source tools/workflows for multi-omics and clinical bioinformatics with a focus on reproducibility and usability.
-- Packages: browse and install via R Universe: https://shixiangwang.r-universe.dev/
-- Lab: https://github.com/WangLabCSU · Blog: https://shixiangwang.github.io/
-- Connect: GitHub Discussions or email (links above).
+
+🔬 **Research Focus**: Bioinformatics · Cancer Genomics · Multi-omics Analysis  
+🛠️ **Development**: R Developer specializing in open-source tools for reproducible bioinformatics  
+🎯 **Mission**: Building accessible workflows and packages for clinical and research bioinformatics  
+
+**Resources & Links:**
+- 📦 **R Packages**: Browse and install at [R Universe](https://shixiangwang.r-universe.dev/)
+- 🧬 **Lab**: [WangLabCSU on GitHub](https://github.com/WangLabCSU) 
+- 📝 **Blog**: [Personal Blog](https://shixiangwang.github.io/)
+
+## Featured Projects
+
+🌟 **[UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)** — Interactive Shiny app for exploring UCSC Xena datasets  
+🔧 **[UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)** — R toolkit to access and manipulate UCSC Xena data  
+⚗️ **[bregr](https://github.com/WangLabCSU/bregr)** — Selected research software from WangLab @ CSU  
+📰 **[weekly](https://github.com/openbiox/weekly)** — Openbiox Weekly: curated bioinformatics news and resources  
+🎓 **[Tech-Workshop](https://github.com/OncoHarmony-Network/Tech-Workshop)** — OncoHarmony Network workshops and teaching materials
+
+## Connect with Me
+
+💬 **Discussion & Support**: [GitHub Discussions](https://github.com/ShixiangWang/self-study/discussions) | [Email](mailto:shixiang1994wang@gmail.com)
+
+[![bilibili](https://img.shields.io/badge/王诗翔-B站-yellow)](https://space.bilibili.com/11553374) [![wechat](https://img.shields.io/badge/王诗翔-微信公众号-important)](https://shixiangwang.github.io/home/logo/qrcode.jpg) [![zhihu](https://img.shields.io/badge/王诗翔-知乎-blue)](https://www.zhihu.com/people/shixiangwang) [![twitter](https://img.shields.io/badge/WangShxiang-twitter-ff69b4)](https://twitter.com/WangShxiang) [![scholar](https://img.shields.io/badge/ShixiangWang-Scholar-00ffff)](https://scholar.google.com/citations?user=FvNp0NkAAAAJ)
+
+---
 
 <details>
  
