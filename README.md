@@ -6,7 +6,7 @@
 ## About
 
 🔬 **Research Focus**: Bioinformatics · Cancer Genomics · Multi-omics Analysis  
-🛠️ **Development**: R Developer specializing in open-source tools for reproducible bioinformatics  
+🛠️ **Development**: Developer specializing in open-source tools for reproducible bioinformatics  
 🎯 **Mission**: Building accessible workflows and packages for clinical and research bioinformatics  
 
 **Resources & Links:**
