@@ -3,6 +3,8 @@
 
 **Dr. Shixiang Wang** | Associate Professor at [Central South University](https://en.csu.edu.cn/) | [CV](https://faculty.csu.edu.cn/wangshixiang)
 
+Leader of [Laboratory of In Silico Oncology and Medicine](https://github.com/WangLabCSU), and co-leadership of [OncoHarmony Network](https://github.com/OncoHarmony-Network) with Prof. Jian-Guo Zhou.
+
 ## About
 
 🔬 **Research Focus**: Bioinformatics · Cancer Genomics · Multi-omics Analysis  
