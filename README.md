@@ -1,5 +1,5 @@
 
-# **Dr. Shixiang Wang** | Associate Professor at [Central South University](https://en.csu.edu.cn/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# **Dr. Shixiang Wang** | Associate Professor at [CSU](https://en.csu.edu.cn/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 Leader of [Laboratory of In Silico Oncology and Medicine](https://github.com/WangLabCSU), and 
 
