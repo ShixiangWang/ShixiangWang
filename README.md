@@ -42,7 +42,7 @@ co-leadership of [OncoHarmony Network](https://github.com/OncoHarmony-Network) w
 
 > 📦 5.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,496 Contributions in the Year 2026
+> 🏆 1,504 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,27 +50,6 @@ co-leadership of [OncoHarmony Network](https://github.com/OncoHarmony-Network) w
  > 
 > 🔑 31 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3981 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-🌆 Daytime                9899 commits        ██████████░░░░░░░░░░░░░░░   40.92 % 
-🌃 Evening                8422 commits        █████████░░░░░░░░░░░░░░░░   34.82 % 
-🌙 Night                  1888 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   3712 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Tuesday                  4107 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Wednesday                4187 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Thursday                 3891 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Friday                   3904 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Saturday                 1903 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Sunday                   2486 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-```
-
-
 **I Mostly Code in R** 
 
 ```text
@@ -84,7 +63,7 @@ TypeScript               3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2026 21:00:43 UTC
+ Last Updated on 28/05/2026 21:15:16 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
