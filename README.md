@@ -50,33 +50,6 @@ co-leadership of [OncoHarmony Network](https://github.com/OncoHarmony-Network) w
  > 
 > 🔑 31 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4089 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-🌆 Daytime                9993 commits        ██████████░░░░░░░░░░░░░░░   40.67 % 
-🌃 Evening                8507 commits        █████████░░░░░░░░░░░░░░░░   34.62 % 
-🌙 Night                  1984 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   3751 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Tuesday                  4152 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Wednesday                4203 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Thursday                 3891 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Friday                   3948 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Saturday                 1988 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Sunday                   2640 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in R** 
 
 ```text
@@ -90,7 +63,7 @@ SCSS                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:34:18 UTC
+ Last Updated on 28/07/2026 20:33:00 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
